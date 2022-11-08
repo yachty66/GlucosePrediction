@@ -1,0 +1,22 @@
+- [x] create virtual conda environment
+- [x] explore data with plotting the header of all types from available data and write comments about what each header does mean 
+- [x] plot time to value and time to value raw
+- [x] create a folder data_max in data folder 
+- [x] create file value_target.csv which contains 1000 x features and 1 y target in every row from all the available files
+- [x] create train and test
+- [x] create x and y data in notebook
+- [x] make a basic regression
+- [x] create a normal machine learning model from with the data
+- [x] normalize data 
+- [x] try to visualize step before in netron
+- [x] find the notebook where he has the MAE as validation
+- [x] try to copy this validation process on my regression modeö
+- [x] create cross val method with input of all parameters with pass
+- [x] restructure model so that it can be called as function on which to make predictions on 
+- [x] complete cross validation with simple neural network. make visible the value of the mae 
+- [x] make a list of three automl provider
+- [x] run H2OAutoML
+- [x] checkout what back testing is and based on that next steps 
+- [ ] principal component analysis (am besten auf regression / check if I can do this for my )
+
+
